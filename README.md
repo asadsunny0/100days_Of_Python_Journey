@@ -1,4 +1,7 @@
 # 100days_Of_Python_Journey 
+![Python_NLP_Blog-scaled-1](https://github.com/user-attachments/assets/3c582189-9b6e-47b9-aee6-f4697eda01cb)
+
+
 Welcome to the "100 Days of Python" repository! This is my journey to learn Python step by step, day by day. The goal is simple: to spend 100 days learning Python, and by the end, I want to have a solid understanding of Python and its applications. Each day, I will:
 
 - Learn and implement a new concept or technique in Python.
